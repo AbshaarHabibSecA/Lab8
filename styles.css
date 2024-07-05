@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #2c3e50;
+}
+
+h1 {
+    text-align: center;
+    color: #1354b6;
+}
+
+#odds {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.odd-card {
+    background-color: #818E95;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+.odd-card h2 {
+    font-size: 1.2em;
+    margin: 0;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #1381E0;
+}
+
+.odd-card p {
+    margin: 5px 0;
+    color: #1F375B;
+}
+
+.odd-card p.hidden {
+    display: none;
+}

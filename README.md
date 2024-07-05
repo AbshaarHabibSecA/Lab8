@@ -1,1 +1,1 @@
-# Lab8
+I chose to use the Live Sports Odds API. It is a API that displays the odds of various live sport matches that are taking place right now. I chose to use it because it is something I enjoy doing myself. I keep track of when my favourite team has matches so I can place a bet accordingly.
